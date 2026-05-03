@@ -1,4 +1,0 @@
-python-telegram-bot==21.10
-aiohttp
-nest_asyncio
-Pillow

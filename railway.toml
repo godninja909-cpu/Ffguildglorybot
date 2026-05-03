@@ -1,0 +1,2 @@
+[deploy]
+startCommand = "python ffglory_bot.py"
